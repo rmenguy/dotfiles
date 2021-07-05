@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphaelmenguy@gmail.com
+	name = raphael menguy
